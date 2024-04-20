@@ -1,0 +1,22 @@
+[
+  {
+    "nama": "Kevin",
+    "umur": 17,
+    "lulus": true,
+    "hobby": ["baca sejarah", "gambar sketsa anime", "gaming"],
+    "guru": {
+      "guru1": "Dina",
+      "guru2": "Amel"
+    }
+  },
+  {
+    "nama": "Anya",
+    "umur": 12,
+    "lulus": false,
+    "hobby": ["mata-mata", "jalan-jalan", "gaming"],
+    "guru": {
+      "guru1": "Dina",
+      "guru2": "Amel"
+    }
+  }
+]

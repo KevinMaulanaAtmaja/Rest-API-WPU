@@ -1,0 +1,9 @@
+# File Visual Studio Code
+.vscode/*
+
+# Folder Node.js
+node_modules/
+
+# File Composer
+vendor/
+composer.lock
